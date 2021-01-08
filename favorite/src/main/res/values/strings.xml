@@ -1,0 +1,3 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="nothing_favorite_movies" tools:ignore="ExtraTranslation">Nothing Favorite Movies</string>
+</resources>
